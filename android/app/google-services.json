@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "531622474953",
+    "firebase_url": "https://e-voting-3254b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "e-voting-3254b",
+    "storage_bucket": "e-voting-3254b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531622474953:android:603cde39e751f824dd0918",
+        "android_client_info": {
+          "package_name": "com.example.evoting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531622474953-1ekep2vfgd7hdg5ipcl0p9al637acumc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.evoting",
+            "certificate_hash": "aa6472c7b1d72392430a521f204a2e9f26ea537a"
+          }
+        },
+        {
+          "client_id": "531622474953-qc87j1h9ib39s7maal7s088e38urtegl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVNg-QAxenzG7OUhd3QoGvmQRQcHgk30g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531622474953-qc87j1h9ib39s7maal7s088e38urtegl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
