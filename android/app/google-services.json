@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "531622474953-vf2ne63o9trocn63f05dbt2a1s4pfjbs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.evoting",
+            "certificate_hash": "4d1d97665feb97501a260a2faa2b6fb87e559178"
+          }
+        },
+        {
           "client_id": "531622474953-qc87j1h9ib39s7maal7s088e38urtegl.apps.googleusercontent.com",
           "client_type": 3
         }
